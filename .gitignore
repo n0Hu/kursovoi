@@ -1,0 +1,6 @@
+__logs
+php_info.php
+vendor
+.idea
+upload/
+config.php

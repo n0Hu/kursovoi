@@ -1,0 +1,13 @@
+{
+    "require": {
+        "pecee/simple-router": "4.2.0.6",
+        "phpmailer/phpmailer": "^6.0",
+      "ext-pdo": "*",
+      "ext-mbstring": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/"
+        }
+    }
+}
